@@ -1,0 +1,48 @@
+
+      
+
+        #box {
+
+            background: rgba(255, 0, 0, 0.6);
+            padding: 60px;
+            border-radius: 25px;
+        }
+
+        #box2 {
+            background: rgba(0, 0, 255, 0.6);
+            padding: 60px;
+            height: 300px;
+            border-radius: 25px;
+            margin-bottom: 10px;
+        }
+
+        #box3 {
+            background: rgba(0, 255, 0, 0.6);
+            padding: 60px;
+            border-radius: 25px;
+        }
+
+        #contain {
+            margin-top: 10px;
+            background-color: white;
+            font-family: 'Fredoka One', cursive;
+            border-radius: 50px;
+        }
+
+        p {
+            font-size: 30px;
+        }
+
+        #Start {
+            padding: 20px 60px;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        #result {
+            font-family: 'Sigmar One', cursive;
+        }
+
+        #header {
+            margin-top: 20px;
+        }
