@@ -18,7 +18,7 @@ Possible results:
 
 Each of the three above lead to an icon beside the answer being displayed for a short amount of time. The icon indicates wether or not the user answered correctly.
 
-###See it live: [Friend Finder App At Heroku](https://mehdicode.github.io/TriviaGame/)
+###See it live: [TriviaGame](https://mehdicode.github.io/TriviaGame/)
 
 
 
